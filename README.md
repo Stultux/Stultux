@@ -3,7 +3,7 @@
 That is my Github Profile.
 
 My Toolbox:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,blender,bootstrap,cs,cpp,discord,docker,dotnet,eclipse,figma,git,github,gitlab,godot,grafana,java,notion,obsidian,py,pycharm,regex,selenium,unity,visualstudio,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,java,html,css,cs,cpp,dotnet,eclipse,figma,git,github,gitlab,godot,grafana,obsidian,regex,selenium,)](https://skillicons.dev)
 
 <!--
 **Stultux/Stultux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
