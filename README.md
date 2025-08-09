@@ -5,6 +5,11 @@ That is my Github Profile.
 My Toolbox:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,java,html,css,cs,cpp,dotnet,eclipse,figma,git,github,gitlab,godot,grafana,obsidian,regex,selenium,)](https://skillicons.dev)
 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Aktuelle Projekte:
+.Online Poker Spiel.
+.Handy Spiel.
 <!--
 **Stultux/Stultux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
