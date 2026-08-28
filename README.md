@@ -3,7 +3,7 @@
 That is my Github Profile.
 
 My Toolbox:
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,java,html,css,cs,cpp,dotnet,eclipse,figma,git,github,gitlab,godot,grafana,obsidian,regex,selenium,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,html,css,cs,dotnet,git,github,grafana,obsidian)](https://skillicons.dev)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
